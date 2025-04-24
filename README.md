@@ -1,8 +1,9 @@
-# fauzan_all_roles
-Visca_Barca
+# Fauzan Azmi
+
+Be Yourself
 
 
-### Hai 👋, Saya Fauzan Azmi (fauzan493)
+### Hai 👋, Saya Fauzan Azmi 
 
 Selamat datang di profil GitHub saya! Saya adalah seorang IT People yang bersemangat tentang pengembangan web, data science, open source. Saya berlokasi di North Jakarta, Indonesia.
 
